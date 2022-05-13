@@ -51,7 +51,6 @@ function App() {
     if (currentScore > bestScore) setBestScore(currentScore)
   },[currentScore,bestScore])
 
-  useEffect(() => console.log(gameState), [gameState])
   return (
     <div className="App">
       <Scoreboard currentScore={currentScore} bestScore={bestScore} />      
