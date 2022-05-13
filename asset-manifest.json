@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c473532.css",
-    "main.js": "/static/js/main.4db64804.js",
-    "static/media/ryuki.png": "/static/media/ryuki.048336b7d8e79f27dffd.png",
-    "static/media/hibiki.png": "/static/media/hibiki.12859aa09666abab30b2.png",
-    "static/media/kiva.png": "/static/media/kiva.5d659d0b32025dea92d8.png",
-    "static/media/deno.png": "/static/media/deno.2fc5ce195efc7706029c.png",
-    "static/media/faiz.png": "/static/media/faiz.90e073902ccaa92aaa58.png",
-    "static/media/blade.png": "/static/media/blade.80f193dd7ac59523fcd9.png",
-    "static/media/kabuto.png": "/static/media/kabuto.cb46eab6765c18f81343.png",
-    "static/media/agito.png": "/static/media/agito.aea8a003c33a148c7056.png",
-    "static/media/decade.png": "/static/media/decade.af12f647a7fdd78b45aa.png",
-    "static/media/kuuga.png": "/static/media/kuuga.e0d6961500e700d1e41e.png",
-    "static/media/driver.png": "/static/media/driver.c43e48bae0665bbe3114.png",
-    "index.html": "/index.html",
-    "main.4c473532.css.map": "/static/css/main.4c473532.css.map",
-    "main.4db64804.js.map": "/static/js/main.4db64804.js.map"
+    "main.css": "/memory-card/static/css/main.4c473532.css",
+    "main.js": "/memory-card/static/js/main.e89f794f.js",
+    "static/media/ryuki.png": "/memory-card/static/media/ryuki.048336b7d8e79f27dffd.png",
+    "static/media/hibiki.png": "/memory-card/static/media/hibiki.12859aa09666abab30b2.png",
+    "static/media/kiva.png": "/memory-card/static/media/kiva.5d659d0b32025dea92d8.png",
+    "static/media/deno.png": "/memory-card/static/media/deno.2fc5ce195efc7706029c.png",
+    "static/media/faiz.png": "/memory-card/static/media/faiz.90e073902ccaa92aaa58.png",
+    "static/media/blade.png": "/memory-card/static/media/blade.80f193dd7ac59523fcd9.png",
+    "static/media/kabuto.png": "/memory-card/static/media/kabuto.cb46eab6765c18f81343.png",
+    "static/media/agito.png": "/memory-card/static/media/agito.aea8a003c33a148c7056.png",
+    "static/media/decade.png": "/memory-card/static/media/decade.af12f647a7fdd78b45aa.png",
+    "static/media/kuuga.png": "/memory-card/static/media/kuuga.e0d6961500e700d1e41e.png",
+    "static/media/driver.png": "/memory-card/static/media/driver.c43e48bae0665bbe3114.png",
+    "index.html": "/memory-card/index.html",
+    "main.4c473532.css.map": "/memory-card/static/css/main.4c473532.css.map",
+    "main.e89f794f.js.map": "/memory-card/static/js/main.e89f794f.js.map"
   },
   "entrypoints": [
     "static/css/main.4c473532.css",
-    "static/js/main.4db64804.js"
+    "static/js/main.e89f794f.js"
   ]
 }
