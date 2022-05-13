@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4c473532.css",
-    "main.js": "/static/js/main.095e4213.js",
+    "main.js": "/static/js/main.4db64804.js",
     "static/media/ryuki.png": "/static/media/ryuki.048336b7d8e79f27dffd.png",
     "static/media/hibiki.png": "/static/media/hibiki.12859aa09666abab30b2.png",
     "static/media/kiva.png": "/static/media/kiva.5d659d0b32025dea92d8.png",
@@ -15,10 +15,10 @@
     "static/media/driver.png": "/static/media/driver.c43e48bae0665bbe3114.png",
     "index.html": "/index.html",
     "main.4c473532.css.map": "/static/css/main.4c473532.css.map",
-    "main.095e4213.js.map": "/static/js/main.095e4213.js.map"
+    "main.4db64804.js.map": "/static/js/main.4db64804.js.map"
   },
   "entrypoints": [
     "static/css/main.4c473532.css",
-    "static/js/main.095e4213.js"
+    "static/js/main.4db64804.js"
   ]
 }
